@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=818cf8&style=for-the-badge&labelColor=0d0d0d"/>
+ 
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-818cf8?style=for-the-badge&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-818cf8?style=for-the-badge&labelColor=0d0d0d"/>
 </p>
@@ -134,14 +134,11 @@ print(f"ETA to goal      : soon™")
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=818cf8"/>
   </a>&nbsp;
-  <a href="mailto:YOUR@gmail.com">
+  <a href="mailto:maissaraguersas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=818cf8"/>
   </a>&nbsp;
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=818cf8"/>
-  </a>&nbsp;
-  <a href="https://kaggle.com/YOUR_KAGGLE">
-    <img src="https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=818cf8"/>
   </a>&nbsp;
 
 ---
